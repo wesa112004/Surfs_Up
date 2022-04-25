@@ -15,4 +15,12 @@ The december month had lower average temperatures, as well as a greater standard
 
 Compared to December histogram<img width="813" alt="Dec histogram" src="https://user-images.githubusercontent.com/100330488/165005514-31c0cf7c-57b7-4e8f-80fc-5e6867f27703.png">
 
+We can also see more outliers for colder temperatures in December compared to June as noted byt the following diagram:
 
+<img width="1188" alt="box and whisker plot" src="https://user-images.githubusercontent.com/100330488/165006060-247bddaa-09b4-472c-af4b-098a3d9b379b.png">
+
+This is in-line with the variance differences we can see from the descriptive statistics comparing June and December, but not surprisingly we would expect lower temperatures in December
+
+###SUMMARY
+
+The data suggest that June is likely a more appropriate month to operate a surf and ice cream shop because it is warmer, with even the minimum temperatures not deviating as far from the mean relative to December. Further, the data suggest that although June has less fluctuations in temperatures relative to December, there are still some relatively warm days in december where an ice cream shop and surf shop would likely do well.
